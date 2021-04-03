@@ -23,3 +23,18 @@
 
  ```
 
+### 3. Ejercicios en Kotlin | Hallar el IGV
+```kotlin
+
+fun main (args: Array<String>){
+
+    val pStart = 100
+    val igv = (0.18 * pStart)
+    val pEnd = pStart - igv
+
+    println("El igv es $pEnd")
+
+}
+
+ ```
+
