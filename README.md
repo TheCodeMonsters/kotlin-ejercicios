@@ -1,5 +1,5 @@
 # Ejercicios Kotlin
-## 1. Ejercicios en Kotlin | Hallar el área de un triángulo
+### 1. Ejercicios en Kotlin | Hallar el área de un triángulo
 ```kotlin
     fun main (args: Array<String>) {
     
@@ -12,7 +12,7 @@
 
  ```
 
-## 2. Ejercicios en Kotlin | Hallar el área de un círculo
+### 2. Ejercicios en Kotlin | Hallar el área de un círculo
 ```kotlin
     fun main (args: Array<String>) {
         val radio = 5
